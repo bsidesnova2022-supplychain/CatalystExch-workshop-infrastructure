@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:CatalystExch-workshop-application-f3716c357877df69643d13162937b47eb2be0853
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:CatalystExch-workshop-application-396bbc80f1dfe2fd9a8419d92cd8079fae047903
         imagePullPolicy: Always
         name: pause
         resources: {}
